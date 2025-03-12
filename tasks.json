@@ -2,15 +2,18 @@
     "Users": [
         {
             "id": 1,
-            "name": "prince"
+            "name": "prince",
+            "email": "prince@gmail.com"
         },
         {
             "id": 2,
-            "name": "gret"
+            "name": "gret",
+            "email": "gre@gmail.com"
         },
         {
             "id": 3,
-            "name": "pratea"
+            "name": "pratea",
+            "email": "prat@gmail.com"
         }
     ],
     "tasks": [
