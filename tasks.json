@@ -1,0 +1,32 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "prince"
+        },
+        {
+            "id": 2,
+            "name": "gret"
+        },
+        {
+            "id": 3,
+            "name": "pratea"
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "title": "cooking",
+            "description": "bla bla",
+            "assigned_to": 1,
+            "status": "Pending"
+        },
+        {
+            "id": 2,
+            "title": "cleaning",
+            "description": "bla bla",
+            "assigned_to": 2,
+            "status": "Completed"
+        }
+    ]
+}
