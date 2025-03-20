@@ -1,35 +1,9 @@
 {
-    "Users": [
-        {
-            "id": 1,
-            "name": "prince",
-            "email": "prince@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "gret",
-            "email": "gre@gmail.com"
-        },
-        {
-            "id": 3,
-            "name": "pratea",
-            "email": "prat@gmail.com"
-        }
-    ],
-    "tasks": [
-        {
-            "id": 1,
-            "title": "cooking",
-            "description": "bla bla",
-            "assigned_to": 1,
-            "status": "Pending"
-        },
-        {
-            "id": 2,
-            "title": "cleaning",
-            "description": "bla bla",
-            "assigned_to": 2,
-            "status": "Completed"
-        }
-    ]
+  "id": 1,
+  "title": "Design landing page",
+  "description": "Create UI/UX for homepage",
+  "status": "in_progress",
+  "assigned_to": "John Doe",
+  "due_date": "2025-03-25"
 }
+
